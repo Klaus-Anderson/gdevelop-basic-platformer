@@ -6662,7 +6662,6 @@
       "colorG": 16,
       "colorR": 189,
       "creationTime": 0,
-      "folded": true,
       "name": "Monster enemy",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -6672,7 +6671,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "name": "Player collides with Monster",
+          "name": "Player collides with Monstera",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
